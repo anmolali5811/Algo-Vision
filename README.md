@@ -5,7 +5,7 @@ A better visualization of different algorithms made with React.
 
   
 
-So far there are 6 segments  
+So far there are 7 segments  
 - Pathfinder
 - Prime Numbers
 - Sorting Algorithms
@@ -13,9 +13,9 @@ So far there are 6 segments
 - Convex Hull
 - Binary Search Game
 - Recursion Tree
-- Turing Machine
 
-I have implemented a total of `23 algorithms` so far. And will try to add more later.  
+
+I have implemented a total of `20 algorithms` so far. And will try to add more later.  
 
 ## Algorithms implemented 
 
@@ -41,10 +41,7 @@ I have implemented a total of `23 algorithms` so far. And will try to add more l
   - Fast Exponentiation
   - Stirling Number of Second Kind
 
-- Turing Machine
-  - Bitwise NOT
-  - Increment one
-  - 2's Compliment
+
 
 
 
