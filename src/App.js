@@ -11,7 +11,6 @@ import BinarySearch from "./binarySearchComponent/binarySearch";
 import RecursiveSort from "./recursiveSortComponents/recursiveSort";
 import Puzzle from "./15puzzleComponents/puzzle";
 import Graph from "./Graph/graph";
-import About from "./homeComponents/about"
 
 class App extends Component {
 
@@ -36,7 +35,6 @@ class App extends Component {
                     <Route path='/recursivesort' component={RecursiveSort}/>
                     <Route path='/15puzzle' component={Puzzle}/>
                     <Route path='/graph' component={Graph}/>
-                    <Route path='/about' component={About}/>
                 </Switch>
             </Router>
         );

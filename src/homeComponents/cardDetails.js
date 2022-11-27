@@ -5,7 +5,6 @@ import queen from "./images/queen.PNG";
 import binSearch from "./images/binaryTree.png";
 import convex from './images/convexHull.png';
 import puzzle from './images/15puzzle.PNG';
-import turing from './images/turing.jpg';
 import Recursion from './images/Recursion.jpg';
 export function getDetails(){
    return [

@@ -15,7 +15,7 @@ class Navbar extends Component {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto">
                         <li className="nav-item active">
-                            <Link className="nav-link" to="/about">About <span className="sr-only">(current)</span></Link>
+                            <a className="nav-link" >About <span className="sr-only">(current)</span></a>
                         </li>
 
                     </ul>
