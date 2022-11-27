@@ -49,7 +49,7 @@ class Menu extends Component {
                     onDoubleChange={this.props.onDoubleChange}
                 />
                 <SimpleSelect
-                    pos={1}
+                    pos={0}
                     onAlgoChanged={this.props.onAlgoChanged}
                 />
                 <button

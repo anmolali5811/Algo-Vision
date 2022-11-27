@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import { Link } from 'react-router-dom';
 
 class Navbar extends Component {
     render() {
@@ -14,7 +15,7 @@ class Navbar extends Component {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto">
                         <li className="nav-item active">
-                            <a className="nav-link" href="#">About <span className="sr-only">(current)</span></a>
+                            <Link className="nav-link" to="/about">About <span className="sr-only">(current)</span></Link>
                         </li>
 
                     </ul>

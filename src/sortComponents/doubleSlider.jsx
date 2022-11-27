@@ -54,7 +54,7 @@ export default function RangeSlider(props) {
                 valueLabelDisplay="auto"
                 aria-labelledby="range-slider"
                 getAriaValueText={valuetext}
-                valueLabelDisplay="off"
+                // valueLabelDisplay="off"
             />
             <Typography id="range-slider" gutterBottom>
                 Value range
