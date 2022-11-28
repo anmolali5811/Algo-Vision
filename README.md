@@ -1,5 +1,5 @@
 
-# Algorithm Visualizer(https://anmolali5811.github.io/Algo-Vision/#/)
+# Algorithm Visualizer   (https://anmolali5811.github.io/Algo-Vision/#/)
 
 A better visualization of different algorithms made with React. 
 
