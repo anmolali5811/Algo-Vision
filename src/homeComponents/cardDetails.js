@@ -5,7 +5,6 @@ import queen from "./images/queen.PNG";
 import binSearch from "./images/binaryTree.png";
 import convex from './images/convexHull.png';
 import puzzle from './images/15puzzle.PNG';
-import turing from './images/turing.jpg';
 import Recursion from './images/Recursion.jpg';
 export function getDetails(){
    return [
@@ -43,13 +42,6 @@ export function getDetails(){
            description:"The N queens puzzle is the problem of placing N chess queens on an N*N chessboard so that no two queens threaten each other",
            route:"/nqueen",
            img:queen
-       },
-       {
-           id:6,
-           title:"Turing Machine",
-           description:"A Turing machine is a mathematical model of computation that defines an abstract machine that manipulates symbols on a strip of tape according to a table of rules",
-           route:"/turing",
-           img:turing
        },
        {
            id:7,

@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import { Link } from 'react-router-dom';
 
 class Navbar extends Component {
     render() {
@@ -11,7 +12,6 @@ class Navbar extends Component {
                     <span className="navbar-toggler-icon"></span>
                 </button>
 
-                
             </nav>
         );
     }
