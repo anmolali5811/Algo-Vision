@@ -1,5 +1,5 @@
 
-# Algorithm Visualizer
+# Algorithm Visualizer   (https://anmolali5811.github.io/Algo-Vision/#/)
 
 A better visualization of different algorithms made with React. 
 
@@ -23,14 +23,15 @@ I have implemented a total of `20 algorithms` so far. And will try to add more l
 - BFS
 - Dijkstra
 - Recursive Maze Creation
-- Bubble sort
-- Selection sort
-- Insertion sort
-- Heap sort
-- Merge sort
-- Quick sort
-- Sieve of Eratosthenes
-- Archimedes Spiral
+-Sorting Algorithm
+  - Bubble sort
+  - Selection sort
+  - Insertion sort
+-Recursive Sorting
+  - Heap sort
+  - Merge sort
+  - Quick sort
+- Prime Sieve of Eratosthenes
 - N Queen Backtracking
 - Graham Scan for Convex Hull
 - Binary Search
@@ -38,7 +39,7 @@ I have implemented a total of `20 algorithms` so far. And will try to add more l
   - Fibonacci Number
   - Binomial Coefficient
   - Derangement
-  - Fast Exponentiation
+  - Bigmod
   - Stirling Number of Second Kind
 
 
