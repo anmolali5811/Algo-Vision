@@ -44,14 +44,14 @@ class Menu extends Component {
                     pos={0}
                     onAlgoChanged={this.props.onAlgoChanged}
                 />
-                <SwitchLabels
+                {/* <SwitchLabels
                     disable={this.props.disable}
                     onDoubleChange={this.props.onDoubleChange}
                 />
                 <SimpleSelect
                     pos={0}
                     onAlgoChanged={this.props.onAlgoChanged}
-                />
+                /> */}
                 <button
                     className='btn btn-warning btn-lg '
                     onClick={this.props.onViusalize}

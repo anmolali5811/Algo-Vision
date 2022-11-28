@@ -46,11 +46,11 @@ class Sort extends Component {
                     speed={this.state.speed}
                     rects={this.state.rects}
                 />
-                { this.state.doubles && <hr style={{width:"90%"}}/>}
+                {/* { this.state.doubles && <hr style={{width:"90%"}}/>}
                 { this.state.doubles &&
                 <Rects
                     rects={this.state.rects2}
-                /> }
+                /> } */}
             </div>
         </React.Fragment>
     );
