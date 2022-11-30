@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Algo-Vision/static/css/main.51890716.chunk.css",
-    "main.js": "/Algo-Vision/static/js/main.c70ba6dd.chunk.js",
-    "main.js.map": "/Algo-Vision/static/js/main.c70ba6dd.chunk.js.map",
+    "main.js": "/Algo-Vision/static/js/main.d2e6e2ba.chunk.js",
+    "main.js.map": "/Algo-Vision/static/js/main.d2e6e2ba.chunk.js.map",
     "runtime-main.js": "/Algo-Vision/static/js/runtime-main.e6741a79.js",
     "runtime-main.js.map": "/Algo-Vision/static/js/runtime-main.e6741a79.js.map",
     "static/css/2.7e4343c7.chunk.css": "/Algo-Vision/static/css/2.7e4343c7.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.7e4343c7.chunk.css",
     "static/js/2.69c7f650.chunk.js",
     "static/css/main.51890716.chunk.css",
-    "static/js/main.c70ba6dd.chunk.js"
+    "static/js/main.d2e6e2ba.chunk.js"
   ]
 }
