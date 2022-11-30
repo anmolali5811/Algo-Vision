@@ -68,7 +68,7 @@ class Vertex extends Component {
                         repeatCount="1"
                     />
                     <tspan x={this.props.pos.x} dy='1.2em' >N:{this.props.label}</tspan>
-                    <tspan  x={this.props.pos.x} dy='1.2em'>R:{this.props.ret}</tspan>
+                    {/* <tspan  x={this.props.pos.x} dy='1.2em'>R:{this.props.ret}</tspan> */}
                 </text>
 
             </g>

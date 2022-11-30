@@ -14,7 +14,7 @@ class Pathfinder extends Component {
             grid:[],
             mouseIsPressed:false,
             algorithms:[
-                "Dijsktra","BFS","DFS"
+                "BFS","DFS"
             ],
             algo:0,
             mazes:[

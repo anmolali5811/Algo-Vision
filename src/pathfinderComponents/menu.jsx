@@ -9,10 +9,10 @@ class Menu extends Component {
                     onAlgoChanged = {this.props.onAlgoChanged}
                     items={this.props.algorithms}
                 />
-                <SimpleSelect
+                {/* <SimpleSelect
                     onAlgoChanged={this.props.onMazeChanged}
                     items={this.props.mazes}
-                />
+                /> */}
                 <button
                     className='btn btn-lg btn-secondary m-2'
                     onClick={this.props.onCreateMaze}>

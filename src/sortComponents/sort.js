@@ -102,10 +102,10 @@ class Sort extends Component {
           case 2:
               steps1 = insertionSort(this.state.rects);
               break;
-          case 3:
-              steps1 = quickSort(this.state.rects2);
-              console.log(steps1)
-              break;
+        //   case 3:
+        //       steps1 = quickSort(this.state.rects2);
+        //       console.log(steps1)
+        //       break;
           default:
               steps1 = bubbleSort(this.state.rects);
               break;

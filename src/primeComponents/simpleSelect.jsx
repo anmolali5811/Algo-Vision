@@ -41,9 +41,9 @@ const SimpleSelect = (props) => {
                     onChange={handleChange}
                 >
                     <MenuItem value={0} style={{selected:true}} >Seive</MenuItem>
-                    <MenuItem value={1} style={{selected:true}} >Archimedes Spiral</MenuItem>
-                    {/*<MenuItem value={3} style={{selected:true}} >Bitwise AND</MenuItem>*/}
-                    {/*<MenuItem value={4} style={{selected:true}} >Bitwise OR</MenuItem>*/}
+                    {/* <MenuItem value={1} style={{selected:true}} >Archimedes Spiral</MenuItem>
+                    <MenuItem value={3} style={{selected:true}} >Bitwise AND</MenuItem>
+                    <MenuItem value={4} style={{selected:true}} >Bitwise OR</MenuItem> */}
                 </Select>
             </FormControl>
         </div>

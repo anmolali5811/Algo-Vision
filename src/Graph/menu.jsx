@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import DiscreteSlider from '../primeComponents/slider';
 import SimpleSelect from "./simpleSelect";
 
 
@@ -6,21 +7,19 @@ class Menu extends Component {
     render() {
         return (
             <nav className="nav alert-dark">
-
-
-                {/*<DiscreteSlider*/}
-                {/*    default={50}*/}
-                {/*    min={10}*/}
-                {/*    max={100}*/}
-                {/*    step={1}*/}
-                {/*    title="Speed"*/}
-                {/*    onCountChange={this.props.onSpeedChange}*/}
-                {/*    disable={false}*/}
-                {/*/>*/}
+                {/* <DiscreteSlider
+                    default={50}
+                    min={10}
+                    max={100}
+                    step={1}
+                    title="Speed"
+                    onCountChange={this.props.onSpeedChange}
+                    disable={false}
+                /> */}
                 <SimpleSelect
                     pos={0}
                     label={'Task'}
-                    items={['Fibonacci','Binomial Coefficient',"Derangement","Bigmod","Stirling2"]}
+                    items={['Fibonacci']}
                     onValueChanged={this.props.setAlgo}
                 />
                 <SimpleSelect
@@ -28,12 +27,6 @@ class Menu extends Component {
                     label={'N'}
                     items={[0,1,2,3,4,5,6]}
                     onValueChanged={this.props.setN}
-                />
-                <SimpleSelect
-                    pos={0}
-                    label={'R'}
-                    items={[0,1,2,3,4,5,6]}
-                    onValueChanged={this.props.setR}
                 />
                 <button
                     className='btn btn-warning btn-lg m-2'

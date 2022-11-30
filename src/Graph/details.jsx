@@ -13,9 +13,6 @@ class Details extends Component {
                     <div className='col-3  card me-1 bg-light '>
                         N = Nth fibonacchi Number
                     </div>
-                    <div className='col-3  bg-light '>
-                        function = nCr(n,r)
-                    </div>
                     <div className='col-3  card me-1 bg-light'>
                         Fib(0) = 0 <br/>
                         Fib(1) = 1 <br/>

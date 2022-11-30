@@ -25,7 +25,7 @@ const SimpleSelect = (props) => {
     const handleChange = (event) => {
         console.log(state.pos);
         setAge(event.target.value);
-        setState({pos: event.target.value})
+        // setState({pos: event.target.value})
         props.onAlgoChanged(state.pos,event.target.value);
     };
 
@@ -42,7 +42,7 @@ const SimpleSelect = (props) => {
                     <MenuItem value={0} style={{selected:true}} >Bubble Sort</MenuItem>
                     <MenuItem value={1}>Selection Sort</MenuItem>
                     <MenuItem value={2}>Insertion Sort</MenuItem>
-                    <MenuItem value={3}>Quick Sort</MenuItem>
+                    {/* <MenuItem value={3}>Quick Sort</MenuItem> */}
                 </Select>
             </FormControl>
         </div>
