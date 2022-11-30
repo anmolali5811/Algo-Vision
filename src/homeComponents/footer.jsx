@@ -6,7 +6,7 @@ class Footer extends Component {
         return (
             <footer class="page-footer font-small special-color-dark pt-4 ">
                 <div class="footer-copyright text-center py-3">© 2022 Copyright:
-                    <a href="https://github.com/anmolali5811/Algo-Vision" style={{color: "#65b6f0"}}> Algo Vision</a>
+                    <a href="https://github.com/anmolali5811/Algo-Vision" target='__blank' style={{color: "#65b6f0"}}> Algo Vision</a>
                 </div>
             </footer>
         );
