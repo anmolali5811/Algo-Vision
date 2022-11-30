@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Algo-Vision/static/css/main.51890716.chunk.css",
+    "main.js": "/Algo-Vision/static/js/main.5920c273.chunk.js",
+    "main.js.map": "/Algo-Vision/static/js/main.5920c273.chunk.js.map",
+    "runtime-main.js": "/Algo-Vision/static/js/runtime-main.e6741a79.js",
+    "runtime-main.js.map": "/Algo-Vision/static/js/runtime-main.e6741a79.js.map",
+    "static/css/2.7e4343c7.chunk.css": "/Algo-Vision/static/css/2.7e4343c7.chunk.css",
+    "static/js/2.69c7f650.chunk.js": "/Algo-Vision/static/js/2.69c7f650.chunk.js",
+    "static/js/2.69c7f650.chunk.js.map": "/Algo-Vision/static/js/2.69c7f650.chunk.js.map",
+    "static/js/3.ff0c580e.chunk.js": "/Algo-Vision/static/js/3.ff0c580e.chunk.js",
+    "static/js/3.ff0c580e.chunk.js.map": "/Algo-Vision/static/js/3.ff0c580e.chunk.js.map",
+    "index.html": "/Algo-Vision/index.html",
+    "static/css/2.7e4343c7.chunk.css.map": "/Algo-Vision/static/css/2.7e4343c7.chunk.css.map",
+    "static/css/main.51890716.chunk.css.map": "/Algo-Vision/static/css/main.51890716.chunk.css.map",
+    "static/js/2.69c7f650.chunk.js.LICENSE.txt": "/Algo-Vision/static/js/2.69c7f650.chunk.js.LICENSE.txt",
+    "static/media/15puzzle.5f6e8f37.PNG": "/Algo-Vision/static/media/15puzzle.5f6e8f37.PNG",
+    "static/media/Recursion.74bc404c.jpg": "/Algo-Vision/static/media/Recursion.74bc404c.jpg",
+    "static/media/binaryTree.6d8ce938.png": "/Algo-Vision/static/media/binaryTree.6d8ce938.png",
+    "static/media/convexHull.2720e7cd.png": "/Algo-Vision/static/media/convexHull.2720e7cd.png",
+    "static/media/graph.6e6849d5.png": "/Algo-Vision/static/media/graph.6e6849d5.png",
+    "static/media/primes.72a2f33f.jpg": "/Algo-Vision/static/media/primes.72a2f33f.jpg",
+    "static/media/queen.a967028b.png": "/Algo-Vision/static/media/queen.a967028b.png",
+    "static/media/queen.b2332ba3.PNG": "/Algo-Vision/static/media/queen.b2332ba3.PNG",
+    "static/media/index.css": "/Algo-Vision/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/sort.117e08fc.png": "/Algo-Vision/static/media/sort.117e08fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6741a79.js",
+    "static/css/2.7e4343c7.chunk.css",
+    "static/js/2.69c7f650.chunk.js",
+    "static/css/main.51890716.chunk.css",
+    "static/js/main.5920c273.chunk.js"
+  ]
+}
