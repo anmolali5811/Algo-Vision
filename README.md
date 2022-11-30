@@ -22,22 +22,16 @@ We have implemented a total of `20 algorithms` so far. And will try to add more 
 ## Algorithms implemented 
 
 - PathFinder.
-  - Dijkstra
   - DFS
   - BFS
 
 - Recursion.
   - Fibonacci Number
-  - Binomial Coefficient
-  - Derangement
-  - Bigmod
-  - Stirling Number of Second Kind
   
 - Sorting Algorithm.
   - Bubble sort
   - Selection sort
   - Insertion sort
-  - Quick sort
   
 - Recursive Sorting.
   - Heap sort
@@ -48,7 +42,6 @@ We have implemented a total of `20 algorithms` so far. And will try to add more 
 
 - Prime Number.
   - Seive
-  - Archimedes Spiral
 
 - Convex Hull.
 
@@ -57,15 +50,4 @@ We have implemented a total of `20 algorithms` so far. And will try to add more 
 - 15 Puzzle.
 
 
-
-
-
-
-
-
-
-
-
-
-   
 
