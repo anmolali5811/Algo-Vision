@@ -6,7 +6,6 @@ import Home from "./homeComponents/home";
 import Seive from "./primeComponents/seive";
 import Sort from "./sortComponents/sort";
 import Queen from "./queenComponents/queen";
-import ConvexHull from "./convexHullComponents/convexHull";
 import BinarySearch from "./binarySearchComponent/binarySearch";
 import RecursiveSort from "./recursiveSortComponents/recursiveSort";
 import Puzzle from "./15puzzleComponents/puzzle";
@@ -30,7 +29,6 @@ class App extends Component {
                     <Route path='/prime' component={Seive}/>
                     <Route path='/sort' component={Sort}/>
                     <Route path='/nqueen' component={Queen}/>
-                    <Route path='/convexhull' component={ConvexHull}/>
                     <Route path='/binarysearch' component={BinarySearch}/>
                     <Route path='/recursivesort' component={RecursiveSort}/>
                     <Route path='/15puzzle' component={Puzzle}/>

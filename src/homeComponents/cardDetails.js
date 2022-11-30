@@ -51,13 +51,6 @@ export function getDetails(){
            img:primes
        },
        {
-           id:8,
-           title:"Convex Hull",
-           description:"The convex hull of a set of points is the smallest convex polygon that contains all the points of it",
-           route:"/convexhull",
-           img:convex
-       },
-       {
            id:9,
            title:"Binary Search",
            description:"Binary search is an efficient algorithm for finding an item from a sorted list of item",
