@@ -33,13 +33,13 @@ We have implemented a total of `20 algorithms` so far. And will try to add more 
   - Bigmod
   - Stirling Number of Second Kind
   
--Sorting Algorithm.
+- Sorting Algorithm.
   - Bubble sort
   - Selection sort
   - Insertion sort
   - Quick sort
   
--Recursive Sorting.
+- Recursive Sorting.
   - Heap sort
   - Merge sort
   - Quick sort
@@ -47,8 +47,8 @@ We have implemented a total of `20 algorithms` so far. And will try to add more 
 - N Queen.
 
 - Prime Number.
-  -Seive
-  -Archimedes Spiral
+  - Seive
+  - Archimedes Spiral
 
 - Convex Hull.
 
