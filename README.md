@@ -5,7 +5,7 @@ A better visualization of different algorithms made with React.
 
   
 
-So far there are 7 segments  
+So far there are 9 segments  
 - Pathfinder
 - Prime Numbers
 - Sorting Algorithms
@@ -13,34 +13,48 @@ So far there are 7 segments
 - Convex Hull
 - Binary Search Game
 - Recursion Tree
+- Recursive Sorting
+- 15 Puzzle
 
 
-I have implemented a total of `20 algorithms` so far. And will try to add more later.  
+We have implemented a total of `20 algorithms` so far. And will try to add more later.  
 
 ## Algorithms implemented 
 
-- DFS
-- BFS
-- Dijkstra
-- Recursive Maze Creation
--Sorting Algorithm
-  - Bubble sort
-  - Selection sort
-  - Insertion sort
--Recursive Sorting
-  - Heap sort
-  - Merge sort
-  - Quick sort
-- Prime Sieve of Eratosthenes
-- N Queen Backtracking
-- Graham Scan for Convex Hull
-- Binary Search
-- Recursion
+- PathFinder.
+  - Dijkstra
+  - DFS
+  - BFS
+
+- Recursion.
   - Fibonacci Number
   - Binomial Coefficient
   - Derangement
   - Bigmod
   - Stirling Number of Second Kind
+  
+-Sorting Algorithm.
+  - Bubble sort
+  - Selection sort
+  - Insertion sort
+  - Quick sort
+  
+-Recursive Sorting.
+  - Heap sort
+  - Merge sort
+  - Quick sort
+  
+- N Queen.
+
+- Prime Number.
+  -Seive
+  -Archimedes Spiral
+
+- Convex Hull.
+
+- Binary Search.
+
+- 15 Puzzle.
 
 
 
@@ -48,14 +62,8 @@ I have implemented a total of `20 algorithms` so far. And will try to add more l
 
 
 
-### Note to self:
 
-To deploy recent changes to page
 
-```
-npm run build
-npm run deploy
-```
 
 
 
